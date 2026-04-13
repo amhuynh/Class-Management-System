@@ -1,4 +1,4 @@
-# Cafe-Ordering-System
+# Class-Management-System
 
 ## Author
 Amanda Huynh
